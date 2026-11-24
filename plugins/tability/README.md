@@ -38,5 +38,5 @@ Claude drafts objectives, key results, check-ins and comments in chat and asks f
 
 ```
 /plugin marketplace add tabilityio/tability-claude-plugin
-/plugin install tability@tability
+/plugin install tability@tabilityio
 ```

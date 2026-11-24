@@ -1,5 +1,5 @@
 {
-  "name": "tability",
+  "name": "tabilityio",
   "description": "Official Tability plugins for Claude: OKRs, goals, KPIs, status reports and strategy alignment.",
   "owner": { "name": "Tability" },
   "plugins": [

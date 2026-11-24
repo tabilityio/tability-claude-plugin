@@ -8,7 +8,7 @@ In a Claude Code session:
 
 ```
 /plugin marketplace add tabilityio/tability-claude-plugin
-/plugin install tability@tability
+/plugin install tability@tabilityio
 ```
 
 Or from a terminal:
@@ -18,7 +18,7 @@ claude plugin marketplace add tabilityio/tability-claude-plugin
 ```
 
 ```bash
-claude plugin install tability@tability
+claude plugin install tability@tabilityio
 ```
 
 The first time Claude calls a Tability tool, it opens a browser window so you can sign in to Tability (OAuth). No API key is needed.
