@@ -1,0 +1,21 @@
+{
+  "name": "tability",
+  "description": "Official Tability plugins for Claude: OKRs, goals, KPIs, status reports and strategy alignment.",
+  "owner": { "name": "Tability" },
+  "plugins": [
+    {
+      "name": "tability",
+      "source": "./plugins/tability",
+      "displayName": "Tability: OKR, goal and KPI tracking",
+      "description": "OKR tracking, goal tracking and KPI reporting with Tability. Set objectives and key results, write SMART goals, run weekly check-ins, write status reports, cascade goals across teams and map strategy alignment and dependencies.",
+      "category": "productivity",
+      "tags": ["okr", "goals", "kpi", "status report", "smart goals", "strategy alignment", "check-ins"],
+      "relevance": {
+        "topic": "OKRs and goal tracking",
+        "signals": {
+          "hosts": ["tability.app", "www.tability.io", "guides.tability.io", "mcp.tability.app"]
+        }
+      }
+    }
+  ]
+}

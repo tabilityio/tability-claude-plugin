@@ -1,0 +1,18 @@
+{
+  "name": "tability",
+  "displayName": "Tability: OKR, goal and KPI tracking",
+  "version": "1.0.0",
+  "description": "OKR tracking, goal tracking and KPI reporting with Tability. Set objectives and key results, write SMART goals, run weekly check-ins, write status reports, cascade goals across teams and map strategy alignment and dependencies.",
+  "author": { "name": "Tability" },
+  "homepage": "https://www.tability.io",
+  "repository": "https://github.com/tabilityio/tability-claude-plugin",
+  "privacyPolicyUrl": "https://guides.tability.io/legals/privacy-policy",
+  "license": "MIT",
+  "keywords": [
+    "okr", "okrs", "objectives and key results", "okr tracking", "goal tracking",
+    "goal setting", "team goals", "quarterly planning", "weekly check-ins",
+    "status report", "progress report", "smart goals", "kpi", "kpi reporting",
+    "scorecard", "cascading goals", "goal alignment", "strategy alignment",
+    "dependency mapping", "tability"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "tability": {
+      "type": "http",
+      "url": "https://mcp.tability.app/mcp"
+    }
+  }
+}
