@@ -7,6 +7,9 @@
   "homepage": "https://www.tability.io",
   "repository": "https://github.com/tabilityio/tability-claude-plugin",
   "privacyPolicyUrl": "https://guides.tability.io/legals/privacy-policy",
+  "termsOfServiceUrl": "https://guides.tability.io/legals",
+  "supportUrl": "https://guides.tability.io/docs/support",
+  "documentationUrl": "https://guides.tability.io/docs/become-a-tability-power-user/integrations/tability-mcp-server",
   "license": "MIT",
   "keywords": [
     "okr", "okrs", "objectives and key results", "okr tracking", "goal tracking",
